@@ -34,7 +34,7 @@
   <img align="center" alt="C++" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
   <img align="center" alt="VSCode" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/906/906324.png">
   <img align="center" alt="Photoshop" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png">
-  <img align="center" alt="Illustrator" height="50" width="50" src="[https://cdn-icons.flaticon.com/png/512/5611/premium/5611037.png?token=exp=1646632679~hmac=f023813a9fe980a9294702b5f35eed26](https://www.flaticon.com/free-icon/illustrator_5968472?term=illustrator&page=1&position=1&origin=search&related_id=5968472)">
+  <img align="center" alt="Illustrator" height="50" width="50" src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-1-1.png">
   <img align="center" alt="Lightroom" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968514.png">
   </div>
   
