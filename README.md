@@ -14,7 +14,7 @@
                                                                                                                     
 <li>Meu nome é Julyana, mas prefiro ser chamada de Kira.</li>
 <li>Tenho 22 anos e moro no Rio de Janeiro - RJ.</li>
-<li>Estou aprendendo fullstack, linguagens como <b>HTML, CSS, JavaScript e Python</b>.</li>
+<li>Estou aprendendo fullstack, já codo em <b>HTML, CSS, JavaScript e React</b>.</li>
 <li>Ela/Dela - Áries ♈ - INFP-T.</li>
 <li>Curiosidade: Minha banda favorita é Pink Floyd.</li>
   
