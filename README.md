@@ -3,7 +3,7 @@
   <img height="500em" src="https://media2.giphy.com/media/H62NM1ab7wzMXURdoi/giphy.gif?cid=790b7611b8a9a33e2a63b6e4f5d9640f3b3f8d671543fde5&rid=giphy.gif&ct=g"/>
 </div>
 
-<h5 align="center">CEO <a href="https://www.instagram.com/enquadrerj/">Enquadre Decor</a><br> Estudante de Análise e Desenvolvimento de Sistemas na UNIP</h5>
+<h5 align="center">CEO <a href="https://www.instagram.com/enquadrerio/">Enquadre Rio</a><br> Estudante de Desenvolvimento Fullstack na Labenu</h5>
 <div>
 <img src="https://i.picasion.com/pic92/889cc76d3fd02ac2ace751acc28b1979.gif" width="230px" height="230px" align="right">
  
