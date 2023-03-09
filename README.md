@@ -34,7 +34,7 @@
   <img align="center" alt="C++" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
   <img align="center" alt="VSCode" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/906/906324.png">
   <img align="center" alt="Photoshop" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png">
-  <img align="center" alt="Illustrator" height="50" width="50" src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611037.png?token=exp=1646632679~hmac=f023813a9fe980a9294702b5f35eed26">
+  <img align="center" alt="Illustrator" height="50" width="50" src="[https://cdn-icons.flaticon.com/png/512/5611/premium/5611037.png?token=exp=1646632679~hmac=f023813a9fe980a9294702b5f35eed26](https://www.flaticon.com/free-icon/illustrator_5968472?term=illustrator&page=1&position=1&origin=search&related_id=5968472)">
   <img align="center" alt="Lightroom" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968514.png">
   </div>
   
@@ -46,7 +46,7 @@
   <a href="https://instagram.com/the2kira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/the2kira" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:the2kira.julyana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/the2kira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/julyana-gusmao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
   <br>
