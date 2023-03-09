@@ -36,7 +36,9 @@
   <img align="center" alt="Photoshop" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png">
   <img align="center" alt="Illustrator" height="50" width="50" src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-1-1.png">
   <img align="center" alt="Lightroom" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968514.png">
-   <img align="center" alt="React" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+  <img align="center" alt="React" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+  <img align="center" alt="React" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
+    
   </div>
   
 <br>
