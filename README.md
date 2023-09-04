@@ -13,7 +13,7 @@
 <br>                                                                                                                   
                                                                                                                     
 <li>👩‍💻 Tenho 23 anos e moro em Vila Velha - ES.</li>
-<li>📚 Estou me formando em Full Stack, algumas das minhas linguagens e libs que mais utilizo são <b>HTML, CSS, JavaScript, React JS, TypeScript, SQL, Knex, Express</b>.</li>
+<li>📚 Estou me formando em Full Stack, algumas das minhas linguagens e libs que mais utilizo são <b><br>HTML, CSS, JavaScript, React JS, TypeScript, SQL, Knex, Express</b>.</li>
 <li>♈ Áries - 🐈 Cat Person - 🔭 Apaixonada por tecnologia</li>
 <li><b>Curiosidade: Minha banda favorita é Pink Floyd.</b></li>
   
