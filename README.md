@@ -23,8 +23,9 @@
   <br>
 
   
-  <h3 align="left">Minhas Skills:</h3>
-  <div align="center">
+
+  <div align="left">
+  <h3>Minhas Skills:</h3>
   <img alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
   <img alt="HTML" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
