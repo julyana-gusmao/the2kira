@@ -3,7 +3,7 @@
   <img height="500em" src="https://media2.giphy.com/media/H62NM1ab7wzMXURdoi/giphy.gif?cid=790b7611b8a9a33e2a63b6e4f5d9640f3b3f8d671543fde5&rid=giphy.gif&ct=g"/>
 </div>
 
-<h5 align="center">CEO <a href="https://www.instagram.com/enquadrerio/">Enquadre Rio</a><br> 💻 Desenvolvedora Web Full Stack em formação</h5>
+<h5 align="center">CEO <a href="https://www.instagram.com/enquadrerio/">Enquadre Rio</a><br> 💻 Desenvolvedora Web Full Stack</h5>
 <div>
 <img src="https://i.picasion.com/pic92/889cc76d3fd02ac2ace751acc28b1979.gif" width="230px" height="230px" align="right">
  
@@ -12,10 +12,10 @@
 <br>
 <br>                                                                                                                   
                                                                                                                     
-<li>👩‍💻 Tenho 23 anos e moro em Vila Velha - ES.</li>
-<li>📚 Estou me formando em Full Stack, algumas das minhas linguagens e libs que mais utilizo são <b><br>HTML, CSS, JavaScript, React JS, TypeScript, SQL, Knex, Express</b>.</li>
-<li>♈ Áries - 🐈 Cat Person - 🔭 Apaixonada por tecnologia</li>
-<li><b>Curiosidade: Minha banda favorita é Pink Floyd.</b></li>
+<li>🏙 Tenho 24 anos e moro em Vila Velha - ES</li>
+<li>👩‍💻 Estagiária de TI na Syno</li>
+<li>📚 Formada em Desenvolvimento Full Stack && Cursando Análise e Desenvolvimento de Sistemas</li>
+<li>♈ Áries - 🐈 Cat Person</li>
   
   
   <br>
@@ -43,8 +43,10 @@
   </div>
   
 <br>
-<br>                                                                                                                  
- 
+<br>           
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=julyana-gusmao&theme=omni">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyana-gusmao&theme=omni&layout=donut">
 
 <div align="left"> 
   <h3>Minhas redes sociais e contato:</h3>
